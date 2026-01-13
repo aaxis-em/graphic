@@ -11,4 +11,4 @@ make sure to have opengl don't have idea about windows but for linux system
     ./app
 ```
 
-GPT used extensively since lab3 cause I didn't find it rewarding anyways for my sane and for my time.
+GPT used extensively since lab4 cause I didn't find it rewarding anyways for my sane and for my time.
